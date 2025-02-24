@@ -99,7 +99,7 @@ pySLAM can be used as flexible baseline framework to experiment with VO/SLAM tec
 
 First, clone this repo and its submodules by running 
 ```bash
-$ git clone --recursive https://github.com/luigifreda/pyslam.git
+$ git clone --recursive https://github.com/wei-hsuan-cheng/pyslam.git
 $ cd pyslam 
 ```
 
